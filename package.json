@@ -51,6 +51,7 @@
   },
   "keywords": [],
   "dependencies": {
-    "angular-translate": "^2.8.1"
+    "angular-translate": "^2.8.1",
+    "babyparse": "^0.4.3"
   }
 }
